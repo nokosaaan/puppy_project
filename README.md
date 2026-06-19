@@ -56,3 +56,8 @@ Rectangle(300, 200, { width: 60, height: 40, color: "blue" });
 
 - [CodeMirror 5](https://codemirror.net/5/) — コードエディタ
 - [Matter.js 0.19.0](https://brm.io/matter-js/) — 2D物理エンジン
+
+# 参考資料
+
+- [Puppy : ライブなコーディング入門環境](https://ipsj.ixsq.nii.ac.jp/records/198670)
+- 情報処理学会 インタラクション 2020
