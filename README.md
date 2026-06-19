@@ -60,4 +60,5 @@ Rectangle(300, 200, { width: 60, height: 40, color: "blue" });
 # 参考資料
 
 - [Puppy : ライブなコーディング入門環境](https://ipsj.ixsq.nii.ac.jp/records/198670)
+- [Puppy Playground!](https://playpuppy.github.io/)
 - 情報処理学会 インタラクション 2020
